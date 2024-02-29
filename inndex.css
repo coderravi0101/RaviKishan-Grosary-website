@@ -1,0 +1,26 @@
+button{
+    background-color: dark #0b3528;
+    border: 5px solid yellow; 
+    scrollbar-highlight-color: #0b3528;
+    height: 20px;
+    cursor: pointer;
+}
+body{
+    border: 4px solid yellow;
+    margin: 3px solid rgb(21, 6, 49);
+    border-image: url("🍕🍔🍟");
+    
+    
+}
+hr{
+    color: dark rgb(7, 7, 29);
+    background-color: dark orangered;
+}
+option ::-ms-value{
+    color: yellow;
+    background-color: tomato;
+}
+h3{
+    background-color: tomato;
+    color: yellow;
+}
